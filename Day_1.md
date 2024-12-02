@@ -13,3 +13,6 @@
 
 ### Second Chapter
 #### CIA Triad (Confidentiality, Integrity, Availability) 
+
+### Third Chapter
+#### Approval Process
