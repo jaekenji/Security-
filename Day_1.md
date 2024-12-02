@@ -4,4 +4,4 @@
 
 </br>
 
-[Objectives](https://resources.infosecinstitute.com/globalassets/documents/comptia-security-sy0-601-exam-objectives.pdf)
+##### [Objectives](https://resources.infosecinstitute.com/globalassets/documents/comptia-security-sy0-601-exam-objectives.pdf)
