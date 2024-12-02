@@ -8,7 +8,7 @@
 
 ### First Chapter
 #### Controls
-> No clue what controls are. Looks like some pretty basic stuff for how things are contolled.
-> Managerial, Technical, Operational, Physical
+- No clue what controls are. Looks like some pretty basic stuff for how things are contolled.
+- Managerial, Technical, Operational, Physical
 
 ##### 
