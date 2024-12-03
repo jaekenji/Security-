@@ -20,6 +20,7 @@
 ##### Symmetric v Asymmetric
 - Symmetic -> Same Key
 - Asymmetric -> Use different keys
+###### Diffie Hellman
   - A public key is agreed upon
   - Both parties choose a random key
   - Both parties encrypt a the public key with their private key and exchange that information
