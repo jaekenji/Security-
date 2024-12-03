@@ -1,7 +1,7 @@
 ## Day 2: 
 
 ### Chapter 1: Cryptographioc Solutions
-> PKIs, TPM chips, KGs, Key Management Systems, Obfuscation, Block Chain
+> Encryuption, Tools, KGs, Key Management Systems, Obfuscation, Block Chain
 
 #### 1. Encryption
 
@@ -27,4 +27,40 @@
   - Both parties encrypt this new information with their randomly selected key
   - This new information is a private key shared by both parties
 
-#### 2. 
+##### Algorithms
+- Stream ciphers, one bit at a time
+- Block cipher, encrypts a large block
+
+#### 2. Tools
+
+##### Hardware Security Module
+- TPM chip
+
+##### Key Management System
+##### Secure Enclave
+
+#### 3. Obfuscation
+
+##### Steganography
+
+##### Tokenization
+
+##### Data Masking
+
+#### 4. Hashing
+
+#### 5. Digital Signatures
+
+#### 6. Key Stretching
+
+#### 7. Blockcahining
+- Digital ledger of all transactions that occur
+
+#### 8. Cetificate Authorities 
+- .BER
+- .CER
+- .DER
+- .PEM
+
+
+#### 9. 
