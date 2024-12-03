@@ -1,7 +1,7 @@
 ## Day 2: 
 
 ### Chapter 1: Cryptographioc Solutions
-> Encryuption, Tools, KGs, Key Management Systems, Obfuscation, Block Chain
+> Encryption, Tools, KGs, Key Management Systems, Obfuscation, Block Chain
 
 #### 1. Encryption
 
@@ -62,5 +62,4 @@
 - .DER
 - .PEM
 
-
-#### 9. 
+### Chapter 2
