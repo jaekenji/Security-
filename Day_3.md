@@ -113,7 +113,7 @@
 
 ### Security Implications
 
-#### 1. Architecture and infrastructure concepts
+#### Architecture and infrastructure concepts
 > Cloud computing is a way of offering on-demand services
 
 ![image](https://github.com/user-attachments/assets/74d9ff95-f1bf-4b86-9ca7-2c63d1c9f374)
@@ -131,3 +131,40 @@
 > Everything is provided
 
 #### 2. Considerations
+nothing lol
+
+-----
+
+### Applying Security Principles
+
+#### 1. Infrastructure Considerations
+- Device Placement
+- Security Zones - under specific policies or controls
+- Attack Surface - all services that are exposed to the internet (disable unecesassary services)
+- Connectivity - self explantory
+##### Failure Modes
+- fail-open - if a part fails, the rest works
+- fail-closed - if a part fails, the rest shuts down
+
+</br>
+
+- Device Attribute - how it works in an environment
+> Active v Passive
+  - Active one device performs work while others stand by
+  - Passive only active when active goes offline
+> Inline v Tap
+  - Inline is a device directly in the network
+  - Tap is hearing it and responding maybe later
+- Network Appliances
+  - Jump server
+  - Proxy server
+  - IPS/IDS
+  - Load balancer
+  - Sensor
+- Port security
+- Firewall types
+
+#### 2. Secure Communitcations
+- VPNs
+- Remote Access
+- Tunneling
