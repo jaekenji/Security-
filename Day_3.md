@@ -57,3 +57,58 @@
 - Out-of-cycle Logging
 - Published Indicators
 - Missing Logs
+
+-----
+
+### Mitigation Techniques
+
+#### 1. Segmentaion 
+- Dividing a network into subnetworks
+
+#### 2. Access Control
+- ACLs - List of acceptable or deniable actions
+- Permissions
+- Windows/Linux permisions
+
+
+#### 3. Application Allow List
+- Approved Applications
+- Allow List
+- Deploy central managing system
+- Respong to an Incident
+- Access user impact
+
+#### 4. Isolation
+- Form of forensic analysis
+
+#### 5. Patching
+- Stay up-to-date
+
+#### 6. Encryption
+- Keep information protected
+
+#### 7. Monitoring
+- Stay watching just in case something happens
+
+#### 8. Least Privilege
+- Don't give more privilege than you need
+
+#### 9. Configuration Enforcement
+- Standardization, such as, strong passwords
+
+#### 10. Decommissioning
+- If it isn't needed, don't use it. Could be a source of vulnerability
+
+#### 11. Hardening Techniques
+- Get tools, get rid of functions, restrict access, set configurations
+- Encryption
+- Installation of protection
+- Host-Based Firewall
+- HIPS Host-Bassed Prevention System
+- Disbale unecesassary services/ports
+- Default password changes
+- Remove software
+
+-----
+
+### Security Implications
