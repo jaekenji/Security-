@@ -118,6 +118,10 @@
 
 ![image](https://github.com/user-attachments/assets/74d9ff95-f1bf-4b86-9ca7-2c63d1c9f374)
 
+##### Infrastructure as a Service
+##### Platform as a Service
+##### Software as a Service
+##### Everything as a Service
 
 
 #### 2. Considerations
