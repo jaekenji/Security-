@@ -89,4 +89,5 @@
 - Bare-Metal backup
 
 #### 9. Power
-- Power management - Effective use of electricity 
+- Power management - Effective use of electricity
+- Uninterruptible Power Supply (UPS)
