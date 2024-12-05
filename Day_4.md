@@ -91,3 +91,28 @@
 #### 9. Power
 - Power management - Effective use of electricity
 - Uninterruptible Power Supply (UPS)
+-----
+### Security Techniques to Computing Resources
+#### 1. Secure baselines
+- 
+
+#### 2. Hardening targets
+-
+
+#### 3. Wireless devices
+-
+
+#### 4. Mobile solutions
+-
+
+#### 5. Wireless security settings
+-
+
+#### 6. Application security
+-
+
+#### 7. Sandboxing
+-
+
+#### 8. Monitoring
+-
