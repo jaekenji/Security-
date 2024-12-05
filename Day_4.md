@@ -31,4 +31,30 @@
 - Segmentation - Dividing data across a network
 - Permission restrictions
 -----
-### 
+### Resilience and Recovery in Security Architecture
+#### 1. High Availability
+-
+
+#### 2. Site Considerations
+-
+
+#### 3. Platform Diversity
+-
+
+#### 4. Multi-Cloud Systems
+-
+
+#### 5. Continuity of Operations
+-
+
+#### 6. Capacity Planning
+-
+
+#### 7. Testion
+-
+
+#### 8. Backups
+-
+
+#### 9. Power
+-
