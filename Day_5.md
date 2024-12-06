@@ -1,6 +1,6 @@
 # Vulnerability Management
 
-### Identification Methods
+## Identification Methods
 
 <p><b>Identification Methods</b> foundational in vulnerability management. Such as Static, Dynamic, Interactive Application Testing, Threat Intelligence Platforms, and Security information and event management. (SAST) (DAST) (IAST) (TIPs) (SIEM).</p>
 
@@ -12,18 +12,18 @@
 
 <p><b></b></p>
 
-### Analysis
+## Analysis
 
 <p><b>Identification Methods</b></p>
 
-### Vulnerability Response
+## Vulnerability Response
 
 <p><b>Identification Methods</b></p>
 
-### Validation
+## Validation
 
 <p><b>Identification Methods</b></p>
 
-### Reporting
+## Reporting
 
 <p><b>Identification Methods</b></p>
