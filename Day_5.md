@@ -2,7 +2,7 @@
 
 ### Identification Methods
 
-<p> **Identification Methods** Here </p>
+<p><b>Identification Methods</b> Here </p>
 
 ### Analysis
 
