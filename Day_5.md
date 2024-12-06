@@ -10,7 +10,7 @@
 
 <p><b>Application Security</b> is a specialized method in identifying vulnerabilities within applications.</p>
 
-<p><b></b></p>
+<p><b>Static Analysis</b>, also known as SAST, examines source code, bytecode, and binaries for potential security vulnerabilities.</p>
 
 ## Analysis
 
