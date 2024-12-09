@@ -20,7 +20,8 @@ ALLOW TCP from ANY to 203.0.113.5 PORT 80
 ## Intrusion Detection System (IDS) / Intrusion Prevention System (IPS)
 ### Signatures
 ###### Such as hashes of specific chunks of a file.
-### Web Filtering
+
+## Web Filtering
 ###### A mechanism that controls access to websites.
 ### Agent-Based Web Filtering
 ###### Software on the users device to filter.
@@ -77,34 +78,28 @@ PORT     PROTOCOL
 ###### Secure access and content of an email account/service
 ### Domain-Based Message Authentication Reporting and Conformance (DMARC)
 ###### CRITCAL in combatting email-based attacks
-
-## 
-
-## IPS/IDS
-
-
-
-## Web Filter
-
-
-
-## OS Security
-
-
-
-## Implementation of Secure Protocols
-
-## DNS Filtering
-
-## Email Security
+### DomainKeys Identified Mail (DKIM)
+###### Tries to verify the authenticity by allowing sender to sign parts of the email digitally.
+### Sender Policy Framework (SPF)
+###### User can verify email was sent from a server authorized by domain owner.
+### Email Gateways
+###### Special email servers between you and internet.
 
 ## File Integrity Monitoring
+###### Security process that involves checking files for changes
 
 ## DLP
+###### An end-to-end goal to make sure users do not send sensitive data.
 
 ## Network Access Control (NAC)
+###### A method for enforcing policy-driven security solutions at the network entry level.
 
 ## Endpoint Detection and Response (EDR) / Extended Detection and Response (XDR)
+### (EDR)
+###### Solutions are inward. Analyze files, processes, and file changes.
+### (XDR)
+###### Holistic view, correlating data across various methods. Email, Cloud, Network, Traffic.
 
-## Use Behavior Analytics
+## Use Behavior Analytics (UBA)
+###### Machine Learning Algorithms to track, collect, and assess behavior of a specific user.
 
