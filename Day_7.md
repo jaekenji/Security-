@@ -95,4 +95,13 @@ Linux   :: /var/log
 ###### Every activity you perform creates metadata.
 
 ## Data Sources
-
+###### Various tools and methoads to collect, analyze and present information that supports an investigation.
+###### Vulnerability Scans, Automated Reports, Dashboards, Packet Captures
+### Vulnerability Scans
+###### Examinations of networks, systems, or applications to evaluate weaknesses.
+### Automated reports
+###### Serve as your eyes and ears within a network, configurable.
+### Dashboard
+###### UI that organizes this information.
+### Packet Captures
+###### Granular view of network activity. Wireshark 
